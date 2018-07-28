@@ -1,2 +1,1 @@
-# pixel-art-maker
-Pixel Art Maker
+# Pixel Art Maker
