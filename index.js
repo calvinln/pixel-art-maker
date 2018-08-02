@@ -45,3 +45,5 @@ function regenerateGrid() {
   }
   table.appendChild(tableBody);
 }
+
+regenerateGrid();

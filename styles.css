@@ -4,16 +4,15 @@ body {
 
 h1 {
   font-family: Monoton;
-  font-size: 70px;
-  margin: 0.2em;
+  font-size: 4rem;
+  margin-top: 4rem;
+  letter-spacing: 0.3rem;
 }
 
 h2 {
-  margin: 1em 0 0.25em;
-}
-
-h2:first-of-type {
-  margin-top: 0.5em;
+  margin: 2rem 0 0.4em;
+  font-family: 'Muli', sans-serif;
+  font-weight: 700;
 }
 
 table,
@@ -27,14 +26,12 @@ table {
   margin: 0 auto;
 }
 
-tr {
+tr,
+td {
+  width: 20px;
   height: 20px;
 }
 
-td {
-  width: 20px;
-}
-
-input[type="number"] {
-  width: 6em;
+input[type='number'] {
+  width: 5em;
 }
